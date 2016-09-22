@@ -56,7 +56,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 #research {
     margin: auto;
 	padding:4px;
-	color:white;
+	color:black;
     text-indent: 1em; 
 	font-family:Times;
 	width: 500px;
@@ -81,7 +81,7 @@ h3 {
 
 p {margin: auto;
 	padding:4px;
-	color:white;
+	color:black;
     text-indent: 1em; 
 	font-family:Times;
 }
